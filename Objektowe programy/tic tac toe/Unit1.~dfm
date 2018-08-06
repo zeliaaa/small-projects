@@ -1,0 +1,76 @@
+object Form1: TForm1
+  Left = 192
+  Top = 124
+  Width = 891
+  Height = 582
+  Caption = 'Form1'
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'MS Sans Serif'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object pole1: TImage
+    Left = 48
+    Top = 56
+    Width = 100
+    Height = 100
+  end
+  object pole3: TImage
+    Left = 240
+    Top = 56
+    Width = 100
+    Height = 100
+  end
+  object pole2: TImage
+    Left = 144
+    Top = 56
+    Width = 100
+    Height = 100
+  end
+  object pole4: TImage
+    Left = 48
+    Top = 152
+    Width = 100
+    Height = 100
+  end
+  object pole5: TImage
+    Left = 144
+    Top = 152
+    Width = 100
+    Height = 100
+  end
+  object pole6: TImage
+    Left = 240
+    Top = 152
+    Width = 100
+    Height = 100
+  end
+  object pole7: TImage
+    Left = 48
+    Top = 248
+    Width = 100
+    Height = 100
+  end
+  object pole8: TImage
+    Left = 144
+    Top = 248
+    Width = 100
+    Height = 100
+  end
+  object Image9: TImage
+    Left = 240
+    Top = 248
+    Width = 100
+    Height = 100
+  end
+  object tura: TImage
+    Left = 576
+    Top = 168
+    Width = 30
+    Height = 30
+  end
+end

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1528521972 source:c:\users\dawid\desktop\c++\prostokat\main.cpp
+	<iostream>
+	"prostokat.h"
+
+1528521972 source:c:\users\dawid\desktop\c++\prostokat\prostokat.cpp
+	<iostream>
+	"prostokat.h"
+
+1528521974 c:\users\dawid\desktop\c++\prostokat\prostokat.h
+	<iostream>
+

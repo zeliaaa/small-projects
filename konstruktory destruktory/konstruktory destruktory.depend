@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1528522006 source:c:\users\dawid\desktop\c++\konstruktory destruktory\event.cpp
+	<iostream>
+	"event.h"
+
+1528522008 c:\users\dawid\desktop\c++\konstruktory destruktory\event.h
+	<iostream>
+
+1528522012 source:c:\users\dawid\desktop\c++\konstruktory destruktory\main.cpp
+	<iostream>
+	"event.h"
+
